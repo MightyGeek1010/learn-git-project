@@ -14,8 +14,5 @@ text for my branch 2nd commit
 text for his branch
 text for his branch 2nd
 text for my branch 3rd 
-<<<<<<< HEAD
 text for my branch 5th
-=======
 text for my branch 4th
->>>>>>> bbee46dee7914829f2bda43fd3fd2e7362a5d657
