@@ -16,3 +16,4 @@ text for his branch 2nd
 text for my branch 3rd 
 text for my branch 5th
 text for my branch 4th
+text for my branch 6th (update on remote)
