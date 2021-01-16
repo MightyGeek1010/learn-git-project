@@ -18,4 +18,5 @@ text for my branch 5th
 text for my branch 4th
 text for my branch 7th (update on local)
 text for my branch 6th (update on remote)
-text for my branch 8th (update on remote)
+text for my branch 8.0th (update on remote)
+text for my branch 9th
